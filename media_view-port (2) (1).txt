@@ -1,0 +1,147 @@
+media querries to check:
+________________________________
+
+~@media(min-width:1500px)
+
+~@media(max-width:1365px)
+
+~@media(max-width:1199px)
+
+~@media(max-width:991px)
+
+~@media(max-width:767px)
+
+~@media(max-width:575px)
+
+~@media(max-width:480px)
+
+~@media(max-width:420px)
+
+~@media(max-width:412px)
+
+~@media(max-width:393px)
+
+~@media(max-width:360px)
+
+~@media(max-width:320px)
+
+________
+
+
+
+
+
+
+Responsive
+
+check(min-width)		   Fixed(max-width)
+_____				       ________
+
+1440
+
+1365
+
+1280
+_______
+
+992              ->    			1199
+
+768		 ->			991
+
+576              ->			767
+
+481		 ->			575
+
+421		 ->			480
+
+320		 ->			420
+
+
+
+http://manos.malihu.gr/jquery-custom-content-scroller/
+
+________
+
+https://flickity.metafizzy.co/
+
+https://codepen.io/desandro/pen/MYQwbx
+
+https://codepen.io/desandro/pen/QwQbQJ
+
+https://codepen.io/desandro/pen/zxRYGo
+
+https://codepen.io/desandro/pen/mEBPQG
+
+https://codepen.io/desandro/pen/WzGgJY
+
+https://codepen.io/desandro/pen/MYQWEe
+
+https://codepen.io/desandro/pen/rVGLGB
+
+https://codepen.io/desandro/pen/jrGrEb
+
+
+
+https://codepen.io/desandro/pen/beoedG
+________________
+
+
+DOM
+__________
+
+https://www.w3schools.com/js/js_htmldom_eventlistener.asp
+
+_____________
+
+https://splidejs.com/
+_______________________
+1. css variables
+2. scale, skew
+3. grid, flex - full 
+4. slider
+5. scroller
+6. fancybox,lightbox, modalbox
+7. email temp
+8. css combinators
+9. diff mob nav menus 
+10 object fit css
+11. css multiple columns 
+12. css ui
+__________________________
+
+https://www.freecodecamp.org/news/full-javascript-course-for-beginners/
+
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
+
+https://www.freecodecamp.org/news/tag/javascript/
+
+___________________________
+
+https://sweetalert.js.org/guides/
+_________________________
+https://pusher.com/tutorials/react-websockets/
+________________________
+
+https://codepen.io/luca-petrini/pen/NWPGKLX
+
+_________________________
+
+https://www.jqueryscript.net/demo/news-ticker-controls-acme/
+
+_____________________________
+
+https://mdbootstrap.com/docs/standard/components/modal/
+
+_____________
+
+
+
+
+
+
+Link---- 
+
+https://we.tl/t-AoYZurn88v
+
+
+
