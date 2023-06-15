@@ -30,3 +30,7 @@ completed site link:
 https://we.tl/t-xg0fTV1Bqw
 
 
+
+Skype chat:
+live:.cid.de7e23f472b224f5
+
