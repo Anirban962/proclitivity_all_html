@@ -27,6 +27,6 @@ https://epicbootstrap.com/snippets/lightbox-gallery
 
 
 completed site link:
-https://github.com/login
+https://we.tl/t-xg0fTV1Bqw
 
 
