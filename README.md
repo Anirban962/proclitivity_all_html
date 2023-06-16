@@ -27,7 +27,7 @@ https://epicbootstrap.com/snippets/lightbox-gallery
 
 
 completed site link:
-https://we.tl/t-xg0fTV1Bqw
+https://we.tl/t-UDRDOyzLq3
 
 
 
