@@ -70,4 +70,7 @@ https://proclivitydemo.co.in/demos/primebookkeeping/development/
 
 
 
+Slick slider with center padding demo codepen link:
+https://codepen.io/ghanshyam-patel/pen/BapGxEq
+
 
