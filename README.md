@@ -74,3 +74,37 @@ Slick slider with center padding demo codepen link:
 https://codepen.io/ghanshyam-patel/pen/BapGxEq
 
 
+
+
+
+TASK assigned:-  23.03.2023
+
+Please start the HTML & also developed the Pantheon Painting & Decorating Website. 
+
+Demo PSD Link:-
+
+https://proclivitydemo.co.in/design/pantheon_painting_and_decorating/home_page.html
+
+
+Reference Link:-
+
+https://codeskdhaka.com/wp/roxce/home-02/
+
+PSD LINK- https://we.tl/t-9jY8UuB6zQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
