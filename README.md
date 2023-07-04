@@ -105,6 +105,8 @@ https://www.tutorialrepublic.com/codelab.php?topic=bootstrap&file=accordion-with
 ##Accessorise IT Shutters Website(Landing Page Development Live demo link-
 https://proclivitydemo.co.in/demos/accessoriseit-landing-page/
 
+##pearls 
+https://we.tl/t-tfI0owtiFd
 
 
 
