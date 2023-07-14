@@ -108,7 +108,8 @@ https://proclivitydemo.co.in/demos/accessoriseit-landing-page/
 ##pearls 
 https://we.tl/t-tfI0owtiFd
 
-
+##Figma Link--
+https://www.figma.com/proto/BC1yYkbQMMnE9hsZ1pz4jC/Debt-Collection?page-id=0%3A1&node-id=1-2&mode=design&t=piY6mauf4vRT489B-1
 
 
 
