@@ -114,7 +114,8 @@ https://www.figma.com/proto/BC1yYkbQMMnE9hsZ1pz4jC/Debt-Collection?page-id=0%3A1
 ##PT property wp complete file link--
 https://we.tl/t-7odmqOcOFB
 
-
+##PT property Demo Server Link-
+https://proclivitydemo.co.in/demos/ptproperty/development
 
 
 
