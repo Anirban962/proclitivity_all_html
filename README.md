@@ -122,3 +122,11 @@ https://proclivitydemo.co.in/demos/ptproperty/development
 
 ##subhas project
 https://www.madetolast.co.nz/
+
+
+## Pt property Live Link
+https://www.ptpropertyservicesltd.co.nz/
+
+
+
+
