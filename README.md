@@ -1,6 +1,8 @@
 # proclitivity_all_html
 
 Cpanel:: https://proclivitydemo.co.in:2083/
+username: proclu2y
+pass: Proclivitydeom@123*
 
 PSD LINKS - 
 
